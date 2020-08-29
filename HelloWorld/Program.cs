@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 namespace HelloWorld
 {
@@ -16,10 +17,33 @@ namespace HelloWorld
 
             int age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Hello! " + Name);
-            Console.WriteLine("You are " + age + " so you know.");
+            Console.WriteLine("Are you alive? (yes or no)");
 
-            Console.WriteLine("Have a great day!");
+            bool alive = true;
+            String answer = Console.ReadLine().ToLower();
+            
+            Console.WriteLine("Hello! " + Name);
+
+            if (answer == "yes"){
+
+                Console.WriteLine("Status update Alive: " + alive.ToString());
+                Console.WriteLine("Good to hear that you are alive and " + age + " years");
+                Console.WriteLine("Have a great day!");
+
+                    }
+            
+            else
+            {
+                alive = false;
+                Console.WriteLine("Status update Alive: " + alive.ToString());
+
+                Console.WriteLine("Oh.. sad to hear, still " + age + " years in the mind huh?");
+                Console.WriteLine("Say hi to the dead for me.");
+            }
+
+            
+  
+            
 
 
 
