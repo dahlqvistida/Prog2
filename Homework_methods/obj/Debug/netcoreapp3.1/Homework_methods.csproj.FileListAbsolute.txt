@@ -1,0 +1,13 @@
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.exe
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.deps.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.runtimeconfig.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.runtimeconfig.dev.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\bin\Debug\netcoreapp3.1\Homework_methods.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.csprojAssemblyReference.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.AssemblyInfoInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.AssemblyInfo.cs
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.csproj.CoreCompileInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Homework_methods\obj\Debug\netcoreapp3.1\Homework_methods.genruntimeconfig.cache
