@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Objekt_Orientering
+namespace LabbObjektOrientering
 {
     class Program
     {

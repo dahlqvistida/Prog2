@@ -1,0 +1,4 @@
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.csprojAssemblyReference.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.AssemblyInfoInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.AssemblyInfo.cs
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.csproj.CoreCompileInputs.cache

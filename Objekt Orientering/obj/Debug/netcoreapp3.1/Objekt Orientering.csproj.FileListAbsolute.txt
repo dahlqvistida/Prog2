@@ -1,0 +1,13 @@
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.csprojAssemblyReference.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.AssemblyInfoInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.AssemblyInfo.cs
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.csproj.CoreCompileInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.exe
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.deps.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.runtimeconfig.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.runtimeconfig.dev.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\bin\Debug\netcoreapp3.1\Objekt Orientering.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\Objekt Orientering\obj\Debug\netcoreapp3.1\Objekt Orientering.genruntimeconfig.cache
