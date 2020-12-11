@@ -1,0 +1,13 @@
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.csprojAssemblyReference.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.AssemblyInfoInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.AssemblyInfo.cs
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.csproj.CoreCompileInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.exe
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.deps.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.runtimeconfig.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.runtimeconfig.dev.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\bin\Debug\netcoreapp3.1\AnimalLabb.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\AnimalLabb\obj\Debug\netcoreapp3.1\AnimalLabb.genruntimeconfig.cache

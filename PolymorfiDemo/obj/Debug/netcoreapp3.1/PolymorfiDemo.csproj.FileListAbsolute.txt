@@ -2,3 +2,12 @@ C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp
 C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.AssemblyInfoInputs.cache
 C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.AssemblyInfo.cs
 C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.csproj.CoreCompileInputs.cache
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.exe
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.deps.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.runtimeconfig.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.runtimeconfig.dev.json
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\bin\Debug\netcoreapp3.1\PolymorfiDemo.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.dll
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.pdb
+C:\Users\ida.dahlqvist\Documents\GitHub\Prog2\PolymorfiDemo\obj\Debug\netcoreapp3.1\PolymorfiDemo.genruntimeconfig.cache
