@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SOLID_Labb
 {
-    public abstract class Animal
+    public abstract class Animal : Ownership
     {
 
         public string _color;

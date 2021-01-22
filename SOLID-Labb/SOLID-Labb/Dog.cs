@@ -5,8 +5,8 @@ using System.Text;
 namespace SOLID_Labb
 {
     class Dog : Animal
+
     {
-        string _owner;
 
         public Dog(string color): base(color)
         {
@@ -28,9 +28,6 @@ namespace SOLID_Labb
             Console.WriteLine("Dog is eating. " + _owner +" is happy!");
         }
 
-        public void TransferOwnership(string owner)
-        {
-            _owner = owner;
-        }
+        
     }
 }
